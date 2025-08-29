@@ -1,11 +1,11 @@
-📅 Day 2 – Python Basics (Strings & Lists)
+#📅 Day 2 – Python Basics (Strings & Lists)
 
-🎯 Goal  
+##🎯 Goal  
 Be confident in handling **strings** and **lists**, performing operations like slicing, concatenation, iteration, and basic problem-solving without relying too much on built-in shortcuts.
 
 ---
 
-✅ Step 1: Study Material (30–40 min)
+##✅ Step 1: Study Material (30–40 min)
 
 📖 Read:  
 - [Python Strings – W3Schools]  
@@ -21,7 +21,7 @@ Be confident in handling **strings** and **lists**, performing operations like s
 
 ---
 
-✅ Step 2: Coding Questions
+##✅ Step 2: Coding Questions
 
 ### 🔹 String Practice
 1. Take a string input from the user and print its **first and last character**.  
@@ -40,7 +40,7 @@ Be confident in handling **strings** and **lists**, performing operations like s
 
 ---
 
-✅ Day 2 Completed:  
+##✅ Day 2 Completed:  
 By the end of today, you should feel confident with:  
 - String manipulation (indexing, slicing, looping)  
 - List operations (traversal, updating, removing duplicates)  
