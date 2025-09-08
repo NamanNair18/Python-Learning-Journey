@@ -1,38 +1,35 @@
-## 📘 Day 4 – Python Basics (Loops)
+# ⭐ Day 5 – Functions in Python
+
 
 ***🎯 Goal***
-Be confident in using for and while loops to repeat tasks, iterate over ranges, and build logic that requires repetition.
+Be confident in writing, calling, and understanding functions, parameters, return values, and scope in Python.
 
-***✅ Step 1: Study Material (30–40 min)***
+---
+
+***⭐ Step 1: Study Material (30–40 min)***
 
 📖 Read:
+- Python Functions – W3Schools
+- User-defined Functions – GeeksforGeeks
 
-[Python For Loops – W3Schools]
-[Python While Loops – W3Schools]
-[GeeksforGeeks – Loops in Python]
 📹 Watch (Optional):
-
-[CodeWithHarry – Python Loops]
-[Telusko – Loops in Python]
-
-***✅ Step 2: Practice Questions***
-
-Print all numbers from 1 to 20 using a for loop.
-Print the multiplication table of a number entered by the user.
-Print the sum of first N natural numbers (user input N).
-Print all even numbers between 1 and 50.
-Write a program to calculate the factorial of a number.
-Create a simple number guessing game (hint: use while loop until user guesses correctly).
-
+- Functions in Python – CodeWithHarry (Hindi)
+- Functions in Python – Corey Schafer (English)
 ---
 
-***💡 Tips***
+***⭐ Step 3: Coding Questions***
 
-Use range(start, end) with for loops.
-Use while when you don’t know how many times to repeat.
-Break down big problems into smaller steps.
+1. Write a function to find the square of a number.
+2. Write a function that takes two numbers as parameters and returns their sum.
+3. Write a function to calculate the factorial of a number (using recursion).
+4. Write a function to check whether a number is prime or not.
+5. Write a function that takes a string and returns it reversed.
+6. Write a function to find the greatest of three numbers.
+7. Create a function to check whether a string is a palindrome.
+8. Write a function to generate Fibonacci sequence up to n terms.
 
----
+--- 
 
 ***✅ Day 4 Completed***
- Strong understanding of loops (for and while) and how to apply them in solving real-world problems.
+
+Strong understanding of functions, parameters, return values, and scope in Python.
