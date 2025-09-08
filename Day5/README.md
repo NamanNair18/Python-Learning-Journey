@@ -17,7 +17,7 @@ Be confident in writing, calling, and understanding functions, parameters, retur
 - Functions in Python – Corey Schafer (English)
 ---
 
-***⭐ Step 3: Coding Questions***
+***⭐ Step 2: Coding Questions***
 
 1. Write a function to find the square of a number.
 2. Write a function that takes two numbers as parameters and returns their sum.
@@ -30,6 +30,6 @@ Be confident in writing, calling, and understanding functions, parameters, retur
 
 --- 
 
-***✅ Day 4 Completed***
+***✅ Day 5 Completed***
 
 Strong understanding of functions, parameters, return values, and scope in Python.
