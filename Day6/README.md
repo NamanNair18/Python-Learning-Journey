@@ -48,6 +48,7 @@ Practice Questions
 ---
 
 ***✅ Day 6 Completed***
+
 You should now be able to:
 Create, read, write, and append files.
 Perform text analysis (lines, words, characters).
