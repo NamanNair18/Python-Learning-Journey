@@ -18,6 +18,8 @@ Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, o
 -CodeWithHarry – Python OOP in One Video
 -Telusko – Python Object Oriented Programming
 
+---
+
 ***📂 Programs Covered***
 
 1.Write a program to create a simple class Car with attributes and methods.
@@ -33,6 +35,8 @@ Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, o
 6.Demonstrate Multiple Inheritance with an example.
 
 7.Demonstrate Polymorphism by overriding a method in the child class.
+
+---
 
 ***📝 Topics Learned***
 
@@ -51,6 +55,8 @@ Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, o
 7.Inheritance → Reuse and extend functionality.
 
 8.Polymorphism → Different implementations of the same method.
+
+---
 
 ***⚡ By the end of Day 6 ⚡***
 
