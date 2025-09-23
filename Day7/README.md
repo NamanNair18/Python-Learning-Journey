@@ -11,11 +11,14 @@ Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, o
 ***📚 Read***
 
 -W3Schools – Python Classes/Objects
+
 -GeeksforGeeks – Object Oriented Programming in Python
+
 -Programiz – Python OOP Concepts
 
 🎥 Watch (Optional)
 -CodeWithHarry – Python OOP in One Video
+
 -Telusko – Python Object Oriented Programming
 
 ---
