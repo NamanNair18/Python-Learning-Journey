@@ -1,7 +1,7 @@
-# 📘 Day 6 — Object-Oriented Programming in Python
+# 📘 Day 7 — Object-Oriented Programming in Python
 
 
-***Welcome to Day 6 of the Python learning journey 🚀.***
+***Welcome to Day 7 of the Python learning journey 🚀.***
 
 Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, objects, constructors, methods, encapsulation, inheritance, and polymorphism.
 
@@ -61,6 +61,6 @@ Today, we focus on Object-Oriented Programming (OOP) concepts such as classes, o
 
 ---
 
-***⚡ By the end of Day 6 ⚡***
+***⚡ By the end of Day 7 ⚡***
 
 you’ll have a solid understanding of Python OOP and be ready to use it in real projects.
