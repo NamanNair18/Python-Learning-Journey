@@ -1,4 +1,4 @@
-# 🌟 Day 7 – Python OOP (Inheritance & Polymorphism)
+# 🌟 Day 8 – Python OOP (Inheritance & Polymorphism)
 
 ## 🎯 Goal  
 Gain confidence in **Inheritance** (code reuse) and **Polymorphism** (flexible methods like overriding & operator overloading).  
@@ -36,7 +36,7 @@ Gain confidence in **Inheritance** (code reuse) and **Polymorphism** (flexible m
 
 ---
 
-## ✅ Day 7 Completed  
+## ✅ Day 8 Completed  
 You can now:  
 ✔ Build **class hierarchies**  
 ✔ Reuse code with **inheritance**  
